@@ -1,7 +1,7 @@
 ## Orientação a Objetos em Python
 
 <p>Este foi o meu primeiro contato com orientação a objetos, foi fundamental para mim como desenvolvedor aprender esses conceitos com a instituição, <a href="https://www.ev.org.br/">Fundação Bradesco</a></p>
-<img src="./POO_Python/download.png" alt="Imagem de Fundação Bradesco">
+<img src="./download.png" alt="Imagem de Fundação Bradesco">
 
 ### Linguagem usada:
 
